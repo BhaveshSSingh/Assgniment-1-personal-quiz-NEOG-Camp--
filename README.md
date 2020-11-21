@@ -1,2 +1,3 @@
-# Assgniment 1 personal quiz(NEOG Camp) 
- this is the code for my personal quiz
+# Welcome To How Well You Know Bhavesh :)
+
+this is the code for my personal quiz
